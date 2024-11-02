@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https//s-mriddhi.github.io/portfolio/static/css/main.27f03a60.css",
-    "main.js": "/https//s-mriddhi.github.io/portfolio/static/js/main.3f8fdfd5.js",
-    "static/media/portfolio-2.png": "/https//s-mriddhi.github.io/portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
-    "static/media/portfolio-1.png": "/https//s-mriddhi.github.io/portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
-    "static/media/portfolio-5.png": "/https//s-mriddhi.github.io/portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
-    "static/media/image.png": "/https//s-mriddhi.github.io/portfolio/static/media/image.cfbb7fe8b641459a9d66.png",
-    "static/media/ui-design.png": "/https//s-mriddhi.github.io/portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "index.html": "/https//s-mriddhi.github.io/portfolio/index.html",
-    "main.27f03a60.css.map": "/https//s-mriddhi.github.io/portfolio/static/css/main.27f03a60.css.map",
-    "main.3f8fdfd5.js.map": "/https//s-mriddhi.github.io/portfolio/static/js/main.3f8fdfd5.js.map"
+    "main.css": "/portfolio/static/css/main.27f03a60.css",
+    "main.js": "/portfolio/static/js/main.40e01031.js",
+    "static/media/portfolio-2.png": "/portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-1.png": "/portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/image.png": "/portfolio/static/media/image.cfbb7fe8b641459a9d66.png",
+    "static/media/ui-design.png": "/portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/portfolio/index.html",
+    "main.27f03a60.css.map": "/portfolio/static/css/main.27f03a60.css.map",
+    "main.40e01031.js.map": "/portfolio/static/js/main.40e01031.js.map"
   },
   "entrypoints": [
     "static/css/main.27f03a60.css",
-    "static/js/main.3f8fdfd5.js"
+    "static/js/main.40e01031.js"
   ]
 }
