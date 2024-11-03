@@ -1,13 +1,15 @@
 #works {
-    width: 100vw;
-    max-width: 55rem;
+    
     display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
 margin: 0 auto;
 text-align: center;
-padding: 0 1rem;
+padding: 0 0.5rem;
+width: 90vw;
+   max-width: 53rem;
+   overflow: hidden;
 }
 .workstitle {
     font-size: 3rem;
@@ -19,7 +21,7 @@ padding: 0 1rem;
 .worksdesc {
     font-weight: 200;
 font-size: 1rem;
-max-width: 53rem;
+max-width: 50rem;
 padding: 0 2rem;
 }
 
@@ -28,6 +30,7 @@ padding: 0 2rem;
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 3rem;
+  overflow-y: hidden;
 }
 
 .portfolio-item {
@@ -37,13 +40,13 @@ padding: 0 2rem;
 }
 
 .portfolio-item img {
-  width: 100%;
+  width: 95%;
   height: 16rem;
   margin-bottom: 10px;
 }
 
 .portfolio-item p {
-  width: 100%;
+  width: 95%;
   margin: 0 auto;
   font-size: 14px;
 }

@@ -1,47 +1,57 @@
 .contact-form {
-    max-width: 400px;
-    margin: 40px auto;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  .contact-form h2 {
-    text-align: center;
-    margin-bottom: 20px;
-    font-size: 3rem;
-    font-weight: 400;
-    
-    margin-bottom: 1.5rem;
-  }
-  
-  .contact-form label {
-    display: block;
-    margin-bottom: 10px;
-  }
-  
-  .contact-form input, .contact-form textarea {
-    width: 100%;
-    height: 40px;
-    margin-bottom: 20px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-  .contact-form button {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  box-sizing: border-box; 
+}
 
-    background-color: #FCDE70;
-    color: black;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 15px;
-    cursor: pointer;
-  }
-  
-  .contact-form button:hover {
-    background-color: #3e8e41;
-  }
-  
+.contact-form h2 {
+  text-align: center;
+  font-size: 2rem; 
+  font-weight: 400;
+  margin-bottom: 1rem; 
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 8px; 
+  font-size: 0.9rem; 
+  box-sizing: border-box;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%; 
+  box-sizing: border-box; 
+  margin-bottom: 15px; 
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 0.95rem; 
+}
+
+.contact-form textarea {
+  height: 100px; /* Set a reasonable height for the textarea */
+  resize: vertical; /* Allow resizing only vertically */
+}
+
+.contact-form button {
+  background-color: #FCDE70;
+  color: black;
+  padding: 10px 15px; 
+  border: none;
+  border-radius: 10px; 
+  cursor: pointer;
+  font-size: 0.95rem; 
+
+  box-sizing: border-box;
+}
+
+.contact-form button:hover {
+  background-color: #d4b854; 
+}
