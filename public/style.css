@@ -8,8 +8,8 @@
 }
 
 body {
-    background-color:rgb(247, 232, 212);
-    color:rgb(22, 6, 6);
+    background-color:white;
+    color:black;
     overflow: hidden;
     overflow-x: hidden;
 }
