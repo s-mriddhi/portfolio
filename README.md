@@ -1,11 +1,12 @@
 
 Portfolio Website
+
 This is a personal portfolio website built with React. It serves as a comprehensive showcase of your skills, works, and personal branding. The project is designed to provide an engaging and professional presentation of your capabilities.
 
 Components Overview
 
 NavBar: A responsive navigation bar that helps users easily navigate different sections of the website.
-Intro: A welcoming section with a brief introduction about my and my professional background.
+Intro: A welcoming section with a brief introduction about myself and my professional background.
 Skills: Highlights technical skills, tools, and technologies proficient in.
 Works: A showcase of key projects with images, descriptions, and links to live demos or repositories.
 Contact: A contact section that allows visitors to reach out via a form .
@@ -13,12 +14,15 @@ Footer: A simple footer to provide clean finish.
 
 
 Features
+
 Responsive Design: Optimized for seamless viewing on any device (desktop, tablet, and mobile).
 Modern UI/UX: Clean and intuitive design for an engaging user experience.
 Interactive Elements: hover effects, pointer cursor.
 Contact Form: Built-in form for users to send messages directly.
 Accessibility: Designed with accessibility best practices in mind for broader usability.
+
 Technologies Used
+
 React.js: Core framework for building the user interface.
 CSS (with custom modifications): Used for styling and layout enhancements.
 React Router: For navigation between different sections.
@@ -67,10 +71,8 @@ portfolio-website/
 │       └── main.css
 ├── package.json
 └── README.md
-Screenshots
-Caption: The introductory section of the portfolio.
 
-Caption: Showcase of projects.
+
 
 Customization
 Content: Modify the Intro.js, Skills.js, Works.js, and Contact.js components to include your personal information and projects.
