@@ -6,8 +6,8 @@ Components Overview
 
 NavBar: A responsive navigation bar that helps users easily navigate different sections of the website.
 Intro: A welcoming section with a brief introduction about my and my professional background.
-Skills: Highlights your technical skills, tools, and technologies you're proficient in.
-Works: A showcase of your key projects with images, descriptions, and links to live demos or repositories.
+Skills: Highlights technical skills, tools, and technologies proficient in.
+Works: A showcase of key projects with images, descriptions, and links to live demos or repositories.
 Contact: A contact section that allows visitors to reach out via a form .
 Footer: A simple footer to provide clean finish.
 
